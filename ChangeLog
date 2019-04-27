@@ -1,3 +1,5 @@
+1.2.1 release
+
 	* fix python bindins for block_uploaded_alert
 	* optimize resolving duplicate filenames in loading torrent files
 	* fix python binding of dht_settings
